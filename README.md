@@ -1,13 +1,12 @@
-# iFix3r A12+ Activator
 
 **Professional iOS Activation Bypass Tool**
 
 ---
 
-[![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)](https://github.com)
+[![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)](https://github.com/Hasnit3ch/A12-Bypass)
 [![Platform](https://img.shields.io/badge/Platform-iOS%20A12%2B-blue.svg)](https://www.apple.com)
-[![License](https://img.shields.io/badge/License-OSS-orange.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.0.0-lightgrey.svg)](https://github.com)
+[![License](https://img.shields.io/badge/License-OSS-orange.svg)](https://github.com/Hasnit3ch/A12-Bypass)
+[![Version](https://img.shields.io/badge/Version-1.0.0-lightgrey.svg)](https://github.com/Hasnit3ch/A12-Bypass)
 
 ---
 
@@ -130,8 +129,8 @@ Before installing, ensure you have the following:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-repo/A12_Bypass_OSS.git
-   cd A12_Bypass_OSS
+   git clone https://github.com/Hasnit3ch/A12-Bypass.git
+   cd A12-Bypass
    ```
 
 2. **Install Python dependencies**
@@ -276,7 +275,7 @@ self.api_url = "http://192.168.1.100:8000/get2.php"
 ## 📁 Project Structure
 
 ```
-A12_Bypass_OSS/
+A12-Bypass/
 │
 ├── client/                          # Python client application
 │   ├── activator.py                # Main client script
@@ -480,8 +479,7 @@ After deployment, follow these steps:
 ### Getting Help
 
 - **Documentation**: Check the `client/README.md` and `server/SETUP.md` files
-- **Issues**: Report bugs or request features via GitHub Issues
-- **Community**: Join our Discord server (link placeholder)
+- **Issues**: Report bugs or request features via [GitHub Issues](https://github.com/Hasnit3ch/A12-Bypass/issues)
 
 ### Common Issues
 
@@ -499,9 +497,9 @@ After deployment, follow these steps:
 
 ### Contact Information
 
-- **Website**: [https://hasnit3ch.com](https://hasnit3ch.com) (placeholder)
-- **Email**: support@hasnit3ch.com (placeholder)
-- **GitHub**: [https://github.com/hasnit3ch](https://github.com/hasnit3ch) (placeholder)
+- **Website**: [https://hasnit3ch.com](https://hasnit3ch.com)
+- **Email**: support@hasnit3ch.com
+- **GitHub**: [https://github.com/Hasnit3ch](https://github.com/Hasnit3ch)
 
 ---
 
@@ -540,9 +538,9 @@ This project is provided as-is for educational and research purposes. Use at you
 
 ## 🔗 Links
 
-- **Download**: [Latest Release](https://github.com/your-repo/releases) (placeholder)
-- **Documentation**: [Full Documentation](https://docs.hasnit3ch.com) (placeholder)
-- **Support**: [Discord Community](https://discord.gg/hasnit3ch) (placeholder)
+- **Download**: [Latest Release](https://github.com/Hasnit3ch/A12-Bypass/releases)
+- **Repository**: [GitHub](https://github.com/Hasnit3ch/A12-Bypass)
+- **Issues**: [Report Issues](https://github.com/Hasnit3ch/A12-Bypass/issues)
 
 ---
 
@@ -552,8 +550,8 @@ This project is provided as-is for educational and research purposes. Use at you
 
 *Professional iOS Security Tools*
 
-[![HASNIT3CH](https://img.shields.io/badge/HASNIT3CH-SOLUTION-red.svg)](https://hasnit3ch.com)
-[![iFix3r](https://img.shields.io/badge/iFix3r-A12%2B%20Activator-blue.svg)](https://ifix3r.com)
+[![HASNIT3CH](https://img.shields.io/badge/HASNIT3CH-SOLUTION-red.svg)](https://github.com/Hasnit3ch)
+[![iFix3r](https://img.shields.io/badge/iFix3r-A12%2B%20Activator-blue.svg)](https://github.com/Hasnit3ch/A12-Bypass)
 
 © 2024 HASNIT3CH SOLUTION. All rights reserved.
 
